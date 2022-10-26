@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/parivartan/static/css/main.2b136cc1.css",
-    "main.js": "/parivartan/static/js/main.fa244152.js",
+    "main.js": "/parivartan/static/js/main.87618a73.js",
     "static/js/787.49e742dd.chunk.js": "/parivartan/static/js/787.49e742dd.chunk.js",
     "static/media/logo.svg": "/parivartan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/parivartan/index.html",
     "main.2b136cc1.css.map": "/parivartan/static/css/main.2b136cc1.css.map",
-    "main.fa244152.js.map": "/parivartan/static/js/main.fa244152.js.map",
+    "main.87618a73.js.map": "/parivartan/static/js/main.87618a73.js.map",
     "787.49e742dd.chunk.js.map": "/parivartan/static/js/787.49e742dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b136cc1.css",
-    "static/js/main.fa244152.js"
+    "static/js/main.87618a73.js"
   ]
 }
