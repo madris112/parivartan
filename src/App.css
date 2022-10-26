@@ -1,6 +1,21 @@
 .App {
   text-align: center;
+  height:100vh;
+  overflow-y:hidden;
+  overflow-x:hidden;
 }
+
+.lstcls:hover{
+  /* border: 1px solid rgb(97, 94, 94); */
+  /* border-radius:10px; */
+  margin-top:10px;
+  margin-bottom:10px;
+  cursor:pointer;
+  /* transform: scale(1);  */
+  /* transition: .2s transform ease-out; */
+}
+
+
 
 .App-logo {
   height: 40vmin;
